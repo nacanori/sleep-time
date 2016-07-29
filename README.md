@@ -1,9 +1,9 @@
 
-## sleep-time
+# sleep-time
 
 sleep-time to sleep the specified milliseconds.
 
-## Usage
+# Usage
 
 Install the library with `npm install sleep-time`
 
@@ -22,7 +22,7 @@ let sleepTime from 'sleep-time';
 ```
 
 
-## Licence
+# Licence
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
