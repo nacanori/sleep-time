@@ -1,0 +1,22 @@
+{
+  "name": "sleep-time",
+  "version": "0.1.0",
+  "description": "sleep-time to sleep the specified milliseconds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacanori/sleep-time.git"
+  },
+  "keywords": [
+    "sleep"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nacanori/sleep-time/issues"
+  },
+  "homepage": "https://github.com/nacanori/sleep-time#readme"
+}
